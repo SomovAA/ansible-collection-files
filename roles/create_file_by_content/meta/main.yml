@@ -1,0 +1,17 @@
+galaxy_info:
+  author: Somov Alexey
+  description: Create file by content
+  namespace: somovaa
+  role_name: create_file_by_content
+  license: MIT
+  min_ansible_version: 2.1
+
+  # platforms:
+  # - name: Fedora
+  #   versions:
+  #   - all
+  #   - 25
+
+  galaxy_tags: []
+
+dependencies: []

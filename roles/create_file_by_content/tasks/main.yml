@@ -1,0 +1,5 @@
+---
+- name: Create file by content
+  somovaa.files.create_file_by_content:
+    path: "{{ path }}"
+    content: "{{ content }}"
