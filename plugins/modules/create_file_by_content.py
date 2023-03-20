@@ -21,8 +21,6 @@ options:
             - Works only when C(path) is a file. Creates the file if it does not exist.
         required: true
         type: str
-extends_documentation_fragment:
-    - somovaa.files.my_doc_fragment_name
 author:
     - Somov Aleksey (https://github.com/SomovAA)
 '''
